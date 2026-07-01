@@ -1,1 +1,0 @@
-/* Scroll animation is currently included in main.js for the fast version. */
